@@ -7,7 +7,7 @@
 
 import UIKit
 //hallooo
-//JE KK VADER
+//JE KK VADER waarommmm
 
 class ViewController: UIViewController {
 
